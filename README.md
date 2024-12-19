@@ -7,6 +7,6 @@ Branding: Designed complete branding solutions, including color schemes, typogra
 Stationery Design: Crafted professional business cards, letterheads, and other corporate stationery to establish cohesive brand aesthetics.
 Each design is a result of exploring innovative ideas and honing my graphic design skills.
 
-Tools
+Tools Used:
 Canva
 # Practice_
